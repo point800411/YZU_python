@@ -11,3 +11,6 @@ else:
 print(w, h, BMI, R)
 print("身高: %.1f 體重: %.1f BMI= %.2f Result= %s"%
       (w, h, BMI, R))
+
+x = 22%3
+print(x)
